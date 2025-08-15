@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,best_params
+RandomForest,0.9331210191082803,0.0,0.0,0.0,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}"
+SVC,0.9331210191082803,0.0,0.0,0.0,"{'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}"
+GaussianNB,0.9331210191082803,0.0,0.0,0.0,
