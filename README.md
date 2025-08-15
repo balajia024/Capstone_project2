@@ -38,7 +38,7 @@ The final model and preprocessing pipeline are saved for future use.
 `pip install -r requirements.txt`
 
 ---
-## ** Open jupyter notebook**
+## **Open jupyter notebook**
 `jupyter notebook 
 semiconductorproject.ipynb`
 
