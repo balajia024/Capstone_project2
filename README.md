@@ -34,3 +34,12 @@ The final model and preprocessing pipeline are saved for future use.
 - Preprocessed before training to ensure model performance.
 
 ---
+## **Install dependencies**
+`pip install -r requirements.txt`
+
+---
+## ** Open jupyter notebook**
+`jupyter notebook 
+semiconductorproject.ipynb`
+
+---
